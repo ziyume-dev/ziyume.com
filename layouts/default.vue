@@ -1,5 +1,12 @@
+<script setup lang="ts">
+
+</script>
+
 <template>
-  <main class="px-10 py-20 text-center">
-    <slot />
-  </main>
+  <div flex flex-col h-screen>
+    <Header />
+    <div flex-1 h-full>
+      <slot />
+    </div>
+  </div>
 </template>

@@ -1,8 +1,11 @@
 <script setup lang="ts">
+
 </script>
 
 <template>
-  <div m-2>
-    <h2>监修中...</h2>
-  </div>
+
 </template>
+
+<style scoped>
+
+</style>
